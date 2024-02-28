@@ -11,8 +11,13 @@ The following is the file structure after installation.
 After executing following command 
 ```$ nginx``` 
 
-On localhost, Nginx displays the default page, which typically executes on port 80. However, since I have mapped port 8080 to port 80, it now appears on port 8080.
+On localhost, Nginx displays the default page, which typically executes on port 80. However, since I have mapped port 8080 to port 80, it now appears on port 8080.<br>
 <img src="image-2.png" width="800" height="400">
+
+Basic nginx.conf
+<img src="image-3.png" width="600" height="500">
+
+![alt text](image-4.png)
 
  
 
