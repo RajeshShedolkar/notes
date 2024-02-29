@@ -20,14 +20,14 @@ Basic nginx.conf<br>
 Reload Nginx server by using following command<br>
 ```nginx -s reload```
 
--s reload sends a signal to instruct nginx to reload its configuration file without actually stopping and starting the process.<br>
+-s reload sends a signal to instruct nginx to reload its configuration file without actually stopping and starting the process.
 ![alt text](image-4.png)
 
 
-<br>
-Serve static content:<br>
+
+Serve static content:
 I added an HTML index file to the mysite directory. Now the Nginx configuration looks like this:
-<br>
+
 ```
 events {
 
@@ -41,13 +41,9 @@ http {
     }
 }
 ```
-![alt text](image-6.png)
-<br>
-Home Page
-![alt text](image-5.png)
 
+<img src="image-6.png" width="500" height="100">
 
- 
+<p>Home Page</p>
 
-
-
+<img src="image-5.png" width="500" height="300">
