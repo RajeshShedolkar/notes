@@ -2,7 +2,7 @@
 <p>This command is used to create and start a new Docker container based on a specified image.
 </p>
 <br>
-```$ docker run -itd IMAGE_NAME```
+<b>$ docker run -itd IMAGE_NAME</b>
 <br>
 
 <p>
@@ -12,3 +12,10 @@
 <p>
 <b>-d or --detach</b>: This flag runs the container in the background (detached mode), allowing you to continue using the terminal.</p>
 
+#### Building Docker images
+With Dockerfile written, you can build the image using the following command:
+
+$ docker build .
+<p>We can see the image we just built using the command docker images.</p>
+
+$ docker images
