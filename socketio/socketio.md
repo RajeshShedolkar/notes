@@ -24,7 +24,11 @@ The Socket.IO connection can be established with different low-level transports:
 
 
 <dt>Question</dt>
-<dd>Answer</dd>
+<dd>
+  io.on("connection", socket => {
+  socket.join("some room");
+});  
+</dd>
 <dt>Question</dt>
 <dd>Answer</dd>
 </dl>
