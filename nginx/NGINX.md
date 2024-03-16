@@ -47,3 +47,9 @@ http {
 <p>Home Page</p>
 
 <img src="image-5.png" width="500" height="300">
+
+<p>
+<b>forward request to proxy server:<br></b>
+ proxy_pass "http://X.X.X.X:PORT$request_uri";
+
+</p>
