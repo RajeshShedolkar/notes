@@ -1,11 +1,3 @@
-create react app:
-npx create-react-app my-app
-
-React Hooks:
-useState()
-useMemo()
-useCallback()
-useEffect()
 <dl>
 <dt>What useContext() Hook is?</dt>
     <dd>
@@ -76,6 +68,4 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<Component1 />);
 ```
 
-Context API:
-Providers:
 
