@@ -6,16 +6,23 @@ useState()
 useMemo()
 useCallback()
 useEffect()
+<dl>
 <dt>What useContext() Hook is?</dt>
     <dd>
+        <div>
         <p>
         useContext is react hook. useContext is the way to manage state globally.
         </p>
         <p>
         Without useContext, sharing state can be achieved using the useState hook. However, the way the useState hook works is not optimal. For example, if there are multiple nested components using the same state, it must be passed from one component to the next via properties.
+        </p>
+        </div>
+    </dd>
+<dt> 
+</dl>
 
-        ```html
-        import { useState } from "react";
+```html
+import { useState } from "react";
 import ReactDOM from "react-dom/client";
 
 function Component1() {
@@ -67,15 +74,8 @@ function Component5({ user }) {
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<Component1 />);
-
-        ```
-
-        <span>In order to aviod this complexity</span>
-        </p>
-    </dd>
-<dt> 
-
-
+```
 
 Context API:
 Providers:
+
