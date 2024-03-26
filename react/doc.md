@@ -14,7 +14,7 @@ useEffect()
         <p>
         Without useContext, sharing state can be achieved using the useState hook. However, the way the useState hook works is not optimal. For example, if there are multiple nested components using the same state, it must be passed from one component to the next via properties.
 
-        ```
+        ```html
         import { useState } from "react";
 import ReactDOM from "react-dom/client";
 
