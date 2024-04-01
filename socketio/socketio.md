@@ -28,6 +28,7 @@ The Socket.IO connection can be established with different low-level transports:
   io.on("connection", socket => {
   socket.join("some room");
   io.to("some room").emit("some event");
+  <br>
   ## Broadcast
   io.on("connection", (socket) => {
   socket.broadcast.emit("an event", { some: "data" }); // everyone gets it but the sender
