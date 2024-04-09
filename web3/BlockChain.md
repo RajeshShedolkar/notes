@@ -21,10 +21,11 @@ PayPal could also block any transaction between users, again, for arbitrary reas
 Not to mention that all users data is under the control of these companies and they could be used for purposes not interesting for the users.
 
 In a decentralized network, there is no central authority and no arbitrary decisions either.
-If John wants to send money to Sarah, there will be a decentralized network of independent nodes that will verify the transaction.
 
+If John wants to send money to Sarah, there will be a decentralized network of independent nodes that will verify the transaction.
 For example, they will check if John has the funds.
 If there is a consensus between the nodes, then the transaction will be executed.
+
 This type of architecture provides many benefits to all users of the network.
 All transactions are public and verifiable by anyone.
 
