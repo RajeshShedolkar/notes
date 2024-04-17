@@ -1,4 +1,4 @@
-In this lesson, we will cover the technical aspects of blockchain and how it works.
+In this Chapter, The technical aspects of blockchain and how it works.
 
 Let me give you a brief explanation of the clever solutions employed by blockchain technology.
 
