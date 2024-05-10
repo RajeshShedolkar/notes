@@ -1,0 +1,20 @@
+Python is often considered slower compared to other popular programming languages. 
+It attributes this slowness to two main factors:
+
+Dynamic Typing: In Python, variables don't have predefined types 
+like in statically typed languages such as C++ or Java. 
+Instead, the type of a variable is determined at runtime. 
+This dynamic typing adds overhead because the interpreter has to spend extra time figuring out the type of each variable as the program runs.
+
+Interpreted Nature: Python is an interpreted language, 
+meaning that each line of code is executed by an interpreter 
+rather than compiled into machine code beforehand. This interpretation process can be slower than the direct execution of compiled languages.
+
+
+Additionally, the content mentions how values are stored in Python. 
+Unlike some other languages that use dense buffers(continious memory) for storing values efficiently, Python stores values in scattered objects, 
+which can also contribute to its relatively slower performance.
+
+In summary, the content suggests that Python's slowness, compared to other 
+languages, can be attributed to its dynamic typing, interpreted nature, 
+and the way it stores values in scattered objects.
