@@ -89,7 +89,6 @@ export useSocket = () => {
   useContext(CustomContext)
 }
 
-
 export function customContextProvider() {
   const [user, setUser] = useState("Jesse Hall");
 
