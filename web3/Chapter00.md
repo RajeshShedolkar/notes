@@ -22,23 +22,12 @@ owner has access to, but it is done in a way that any node in the network can ve
 
 valid.
 
-This is a type of digital signature.
-
-Once the transaction is created, it is then broadcast to the network.
-
+This is a type of digital signature. Once the transaction is created, it is then broadcast to the network.
 It is eventually added to a block containing multiple other transactions.
+Then the people that work to maintain the blockchain, which are called miners. We work to validate the transactions.
+Since everything in the blockchain is public, the miners can easily verify if John and the other senders are actually the owners of the wallets and that they have sufficient funds for the transactions.
 
-Then the people that work to maintain the blockchain, which are called miners.
-
-We work to validate the transactions.
-
-Since everything in the blockchain is public, the miners can easily verify if John and the other senders
-
-are actually the owners of the wallets and that they have sufficient funds for the transactions.
-
-Once the transactions have been validated, the miners will compete to solve a complex mathematical
-
-puzzle that demands a huge amount of computational power.
+Once the transactions have been validated, the miners will compete to solve a complex mathematical puzzle that demands a huge amount of computational power.
 
 The first miner who solves it adds the solution to the block in the Bitcoin network.
 
