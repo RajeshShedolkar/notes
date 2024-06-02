@@ -1,10 +1,10 @@
 Kubernetes:
 
-Jargons:
+Jargons -   
+Node:  
+Cluster:  
+Master(control pane):  
+worker node:  
+container:  
+Pod:  
 
-Node:
-Cluster:
-Master(control pane):
-worker node:
-container:
-Pod:
