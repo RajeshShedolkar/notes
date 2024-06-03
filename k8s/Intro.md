@@ -6,5 +6,5 @@ Cluster:
 Master(control pane):  
 worker node:  
 container:  
-Pod:  
+Pod:  small unit of kubernets which contains set of containers.
 
