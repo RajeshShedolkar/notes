@@ -1,7 +1,7 @@
 Kubernetes:
 
 Jargons -   
-Node:  
+Node:  single machine
 Cluster:  set of nodes  
 Master(control pane):  master node who keep track the resources for worker node.  
 worker node:  
