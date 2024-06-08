@@ -6,7 +6,8 @@
         useContext is react hook. useContext is the way to manage state globally.
         </p>
         <p>
-        Without useContext, sharing state can be achieved using the useState hook. However, the way the useState hook works is not optimal. For example, if there are multiple nested components using the same state, it must be passed from one component to the next via properties.
+        Without useContext, sharing state can be achieved using the useState hook. However, the way the useState hook works is not optimal.  
+ For example, if there are multiple nested components using the same state, it must be passed from one component to the next via properties.
         </p>
         </div>
     </dd>
