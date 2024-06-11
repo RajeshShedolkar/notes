@@ -11,11 +11,11 @@ Here's how it would work.
 John opens a new transaction with some details like their wallet addresses and the amount to be transferred.
 The wallet address, which is also called the Public Key, is linked to a private key that only the
 owner has access to, but it is done in a way that any node in the network can verify if the link is
-valid.
+valid.  
 
 This is a type of digital signature. Once the transaction is created, it is then broadcast to the network.
 It is eventually added to a block containing multiple other transactions.
-Then the people that work to maintain the blockchain, which are called miners. We work to validate the transactions.
+Then the people that work to maintain the blockchain,   which are called miners. We work to validate the transactions.
 Since everything in the blockchain is public, the miners can easily verify if John and the other senders are actually the owners of the wallets and that they have sufficient funds for the transactions.
 
 Once the transactions have been validated, the miners will compete to solve a complex mathematical puzzle that demands a huge amount of computational power.
