@@ -38,5 +38,7 @@ Remember that to send the new block to the chain, the miner must spend computati
 
 So this makes it economically unfeasible to create and validate a large number of fake blocks.
 We can then conclude that the utilization of mathematical and cryptographic functions in these solutions
-enables the establishment of a secure and decentralized network, which is the backbone of Web3.
+enables the establishment of a secure and decentralized network, which is the backbone of Web3.  
+
+ creating decentralized apps (dApps) that run on the blockchain
 
