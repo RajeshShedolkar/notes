@@ -33,3 +33,5 @@ This helps establish trust among participants.
 
 The immutability, combined with the use of advanced cryptographic techniques, makes the network tamper proof and secure.
 
+web development:  
+Solana, eth, go, rust, JavaScript, typescript, React, react-native
