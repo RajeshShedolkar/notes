@@ -36,6 +36,4 @@ The Socket.IO connection can be established with different low-level transports:
 });
 });  
 </dd>
-<dt>Question</dt>
-<dd>Answer</dd>
 </dl>
