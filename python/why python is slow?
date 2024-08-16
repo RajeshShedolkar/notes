@@ -15,6 +15,4 @@ Additionally, the content mentions how values are stored in Python.
 Unlike some other languages that use dense buffers(continious memory) for storing values efficiently, Python stores values in scattered objects, 
 which can also contribute to its relatively slower performance.
 
-In summary, the content suggests that Python's slowness, compared to other 
-languages, can be attributed to its dynamic typing, interpreted nature, 
-and the way it stores values in scattered objects.
+In summary, the content suggests that Python's slowness, compared to other languages, can be attributed to its dynamic typing, interpreted nature,  and the way it stores values in scattered objects.  
