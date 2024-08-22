@@ -32,3 +32,6 @@ The transactions are also immutable. So after being recorded in the blockchain, 
 This helps establish trust among participants.
 
 The immutability, combined with the use of advanced cryptographic techniques, makes the network tamper proof and secure.
+
+In nutshell:  
+Blockchain is a decentralized, digital ledger technology that securely records transactions across multiple computers, ensuring transparency and immutability. It underpins cryptocurrencies like Bitcoin and enables various applications in finance, supply chain, and more.
