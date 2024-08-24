@@ -36,7 +36,9 @@ That's because the link between the blocks makes it impossible to alter data, as
 Number three What prevents someone from spamming the network with millions of fake blocks?
 Remember that to send the new block to the chain, the miner must spend computational power to solve the complex mathematical puzzle.
 
-So this makes it economically unfeasible to create and validate a large number of fake blocks.
-We can then conclude that the utilization of mathematical and cryptographic functions in these solutions
-enables the establishment of a secure and decentralized network, which is the backbone of Web3.  
+So this makes it economically unfeasible to create and validate a large number of fake blocks.  
+We can then conclude that the utilization of mathematical and cryptographic functions in these solutions  
+enables the establishment of a secure and decentralized network, which is the backbone of Web3.   
 
+Solana is a blockchain platform which uses a proof-of-stake mechanism to provide smart contract functionality.  
+Its native cryptocurrency is SOL. 
