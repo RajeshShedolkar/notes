@@ -1,0 +1,1 @@
+An event loop in Node.js (or JavaScript) is like a manager that handles tasks (or events) that your program needs to do, one at a time, in an efficient and non-blocking way.
