@@ -53,3 +53,4 @@ http {
  proxy_pass "http://X.X.X.X:PORT$request_uri";
 
 </p>
+NGINX WEBSEVER
