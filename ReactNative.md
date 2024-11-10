@@ -49,8 +49,3 @@
 ## 10. **Native Modules**
    - Allow you to use native code (Java, Swift, etc.) within a React Native app for platform-specific features.
    - Useful for accessing hardware features like the camera or sensors.
-
-## 11. **Debugging**
-   - Tools like React Native Debugger and React DevTools help find and fix errors.
-   - Logging with `console.log` is also a common debugging method.
-
