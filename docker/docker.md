@@ -19,3 +19,6 @@ $ docker build .
 <p>We can see the image we just built using the command docker images.</p>
 
 $ docker images
+
+Docker is a tool that helps you package your application and its dependencies into lightweight containers, so it can run consistently across different environments. These containers are like portable, isolated units that work the same way on your computer, a server, or in the cloud.
+
