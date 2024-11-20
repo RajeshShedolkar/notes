@@ -36,4 +36,7 @@ The immutability, combined with the use of advanced cryptographic techniques, ma
 In nutshell:  
 Blockchain is a decentralized, digital ledger technology that securely records transactions across multiple computers, ensuring transparency and immutability. It underpins cryptocurrencies like Bitcoin and enables various applications in finance, supply chain, and more.  
 
-Solana is a high-performance blockchain platform designed for decentralized applications and crypto projects, known for its fast transaction speeds and low costs. It uses a unique consensus mechanism called Proof of History (PoH) to achieve scalability and efficiency.
+Solana is a high-performance blockchain platform designed for decentralized applications and crypto projects,   
+known for its fast transaction speeds and low costs.   
+It uses a unique consensus mechanism called Proof of History (PoH)   
+to achieve scalability and efficiency.  
