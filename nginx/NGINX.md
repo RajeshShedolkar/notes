@@ -1,3 +1,4 @@
+NGINX is a high-performance, open-source web server and reverse proxy server known for its speed, scalability, and reliability. It is widely used for serving static content, load balancing, and handling HTTP requests efficiently. Its lightweight architecture makes it ideal for modern web applications and microservices.
 spin off ubuntu container<br>
 ```$ docker run -it -p 8080:80 ubuntu```
 
