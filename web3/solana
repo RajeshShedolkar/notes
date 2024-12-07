@@ -14,7 +14,7 @@ pub fn process_instruction(
     accounts: &[AccountInfo],
     instruction_data: &[u8]
 ) -> ProgramResult {
-    // log a message to the blockchain
+    // print statement
     msg!("Hello, world!");
  
     // gracefully exit the program
