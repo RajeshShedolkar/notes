@@ -43,6 +43,13 @@ function App() {
         type="text"
         value={text}
         onChange={(e) => setText(e.target.value)}
-        placeholder="Type
+        placeholder="Type something"
+      />
+    </div>
+  );
+}
+
+export default App;
+
 
 ```
