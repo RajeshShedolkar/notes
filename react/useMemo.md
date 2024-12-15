@@ -22,34 +22,3 @@ useMemo will only recompute the memoized value when one of the deps has changed.
 
 Note: The useMemo and useCallback Hooks are similar. The main difference is that useMemo returns a memoized value and useCallback returns a memoized function. You can learn more about useCallback 
 
-```
-import React, { useState } from 'react';
-
-// A child component
-const Child = React.memo(({ count }) => {
-  console.log('Child rendered');
-  return <div>Count: {count}</div>;
-});
-
-function App() {
-  const [count, setCount] = useState(0);
-  const [text, setText] = useState('');
-
-  return (
-    <div>
-      <button onClick={() => setCount(count + 1)}>Increment Count</button>
-      <Child count={count} />
-      <input
-        type="text"
-        value={text}
-        onChange={(e) => setText(e.target.value)}
-        placeholder="Type something"
-      />
-    </div>
-  );
-}
-
-export default App;
-
-
-```
