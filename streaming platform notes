@@ -1,5 +1,4 @@
 streaming platform notes
-
  - Try to make Simulation like a real network traffic and try to recreate the issues.
  - Exponential backoff - ceiling - will decide how much to put burst
  - Feature flags - based on OS, based on version, based on region
@@ -7,5 +6,5 @@ streaming platform notes
  - Multiple CDN - Based on anticipated network traffic calculation precautionary preparation takes place.
  - Back of the envelope calculation for prescaling
  - Cache offloading is the major thing to improve performance as well and money saving option to avoid lot of request going from CDN to APP server to db server.
-
-
+ - Use of load balancer
+ - 3 stacks of cache, video, image, text data
